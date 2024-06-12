@@ -1,9 +1,2 @@
-this github page is test website offline page
-
-
-the youtube link for this
-
-https://www.youtube.com/watch?v=ksXwaWHCW6k
-
-How to make your site viewable offline
+this github page is a offline web page as an example of service workers
 
